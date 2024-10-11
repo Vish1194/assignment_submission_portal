@@ -119,4 +119,6 @@ Now fill the information as shown below
 
 ![7](https://github.com/user-attachments/assets/7850f9c8-2811-4080-a1c2-824d0ca3e3be)
 
-Finally you will get Client id and Client secret copy and paste in .env file as shown below.  
+Finally you will get Client id and Client secret copy and paste in .env file as shown below. 
+
+![clientidsecret](https://github.com/user-attachments/assets/4e9d4e68-f17f-4d14-ab59-11721865e1d3)
