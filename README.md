@@ -17,7 +17,7 @@ Database : **Mongo DB**
 
 1. **Clone the repository:**
     
-        git clone 
+        git clone https://github.com/Vish1194/assignment_submission_portal.git
 
 2. **Install the dependencies:**
 
